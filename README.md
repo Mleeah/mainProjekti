@@ -15,6 +15,8 @@ no .xlsx faila paņem tanku nosaukumus un iet uz internet vietni lai uzzinātu, 
 ## printScreenToImg.py
 veido skrinšotus un kopē tos "Obsidian.exe", kuri tiek automātiski pārveidoti par .jpg
 
+-----
+
 Kopējā aktivitāte ar privātajiem repositorijiem
 
 ![GithubAktivitāte](https://github.com/Mleeah/mainProjekti/assets/102471691/3061d512-5cea-4cda-a3c5-12e45c0ecbef)
