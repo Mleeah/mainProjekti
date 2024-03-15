@@ -17,4 +17,4 @@ veido skrinšotus un kopē tos "Obsidian.exe", kuri tiek automātiski pārveidot
 
 Kopējā aktivitāte ar privātajiem repositorijiem
 
-![alt text]([https://github.com/Mleeah/mainProjekti/blob/main/activity.jpg])
+![GithubAktivitāte](https://github.com/Mleeah/mainProjekti/assets/102471691/3061d512-5cea-4cda-a3c5-12e45c0ecbef)
